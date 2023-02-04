@@ -1,5 +1,7 @@
 # II. Habitat and Life Cycle 
 
+![](https://images.unsplash.com/photo-1590595228504-ff3cd25658f4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cGVuZ3Vpbnx8fHx8fDE2NzU1Mzk1NDU&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=900)
+
 Penguins are amazing creatures that live in some of the most extreme and remote environments on Earth. They inhabit a wide range of habitats, from icy polar regions to warm tropical islands. Penguins have adapted to their environment over millions of years, and their unique behaviors, diet, and life cycle are all influenced by where they live. 
 
 ## A. Where Do Penguins Live?
@@ -11,6 +13,8 @@ Penguins live in large colonies that can be found along the coasts of Antarctica
 Due to their adaptation to cold climates, penguins migrate every year to find food in warmer waters and more hospitable climates during the austral summer months (November-February). Some species such as emperor penguins will travel up to 600 miles during their migration journey while others may stay relatively close to their breeding colonies throughout the year. 
 
 ## C. Breeding, Courtship and Reproduction 
+
+![](https://images.unsplash.com/photo-1575677935416-510b781932af?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8cGVuZ3Vpbnx8fHx8fDE2NzU1Mzk1NDc&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=900)
 
 Penguins typically mate for life and form strong social bonds with each other during mating season which lasts from September through February depending on location and species. During this time courtship behavior is highly visible among pairs as they parade around each other displaying physical displays such as bowing or head shaking while vocalizing calls or honks towards one another as signs of affection.  
 
